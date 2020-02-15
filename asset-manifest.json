@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/decentralized-chat/static/css/main.492dee98.chunk.css",
-    "main.js": "/decentralized-chat/static/js/main.92131972.chunk.js",
-    "main.js.map": "/decentralized-chat/static/js/main.92131972.chunk.js.map",
-    "runtime~main.js": "/decentralized-chat/static/js/runtime~main.f73111cf.js",
-    "runtime~main.js.map": "/decentralized-chat/static/js/runtime~main.f73111cf.js.map",
-    "static/js/2.2fab5b74.chunk.js": "/decentralized-chat/static/js/2.2fab5b74.chunk.js",
-    "static/js/2.2fab5b74.chunk.js.map": "/decentralized-chat/static/js/2.2fab5b74.chunk.js.map",
-    "index.html": "/decentralized-chat/index.html",
-    "precache-manifest.71cdc01ce8b8a70ec811e644910190d6.js": "/decentralized-chat/precache-manifest.71cdc01ce8b8a70ec811e644910190d6.js",
-    "service-worker.js": "/decentralized-chat/service-worker.js",
-    "static/css/main.492dee98.chunk.css.map": "/decentralized-chat/static/css/main.492dee98.chunk.css.map"
+    "main.css": "/wavechat/static/css/main.492dee98.chunk.css",
+    "main.js": "/wavechat/static/js/main.38ce0a1b.chunk.js",
+    "main.js.map": "/wavechat/static/js/main.38ce0a1b.chunk.js.map",
+    "runtime~main.js": "/wavechat/static/js/runtime~main.3bec93be.js",
+    "runtime~main.js.map": "/wavechat/static/js/runtime~main.3bec93be.js.map",
+    "static/js/2.3e06a44c.chunk.js": "/wavechat/static/js/2.3e06a44c.chunk.js",
+    "static/js/2.3e06a44c.chunk.js.map": "/wavechat/static/js/2.3e06a44c.chunk.js.map",
+    "index.html": "/wavechat/index.html",
+    "precache-manifest.4c962a39fbcf655f273e5c4fde7ef1c2.js": "/wavechat/precache-manifest.4c962a39fbcf655f273e5c4fde7ef1c2.js",
+    "service-worker.js": "/wavechat/service-worker.js",
+    "static/css/main.492dee98.chunk.css.map": "/wavechat/static/css/main.492dee98.chunk.css.map"
   }
 }
